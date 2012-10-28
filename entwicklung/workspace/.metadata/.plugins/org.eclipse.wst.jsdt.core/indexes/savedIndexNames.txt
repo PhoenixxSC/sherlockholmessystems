@@ -1,0 +1,8 @@
+INDEX VERSION 1.122+C:\Users\Shazem\Documents\my_projects\eclipse\sitsrn_2012\sherlockholmessystems\entwicklung\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3579111845.index
+1364577668.index
+954313086.index
+3689519981.index
+3291768462.index
+456526812.index
+1689380702.index

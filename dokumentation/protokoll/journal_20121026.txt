@@ -6,6 +6,5 @@
 >- Gruppenname überlegt
 >- Für Programmiersprache entschieden -> Java
 >- Treffzeitpunkt ausgemacht -> Freitags zur zweiten SIT Stunde
->- erste Aufgaben verteilt (welche Verschlüsselung, Datenbank, GUI, ob
->web/desktop-anwendung)
+>- erste Aufgaben verteilt (welche Verschlüsselung, Datenbank, GUI, ob web/desktop-anwendung)
 >- Versionsverwaltung eingerichtet (GIT / von Patrick)

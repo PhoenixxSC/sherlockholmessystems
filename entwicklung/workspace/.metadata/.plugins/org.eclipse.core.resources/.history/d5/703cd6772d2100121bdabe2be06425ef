@@ -1,0 +1,16 @@
+package service;
+
+public class LoginService {
+	
+	public LoginService(){
+		
+	}
+	
+	public boolean authenticate(String userId, String password){
+		if(!password.isEmpty())
+			return false;
+		else
+			return true;
+	}
+	
+}
