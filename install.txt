@@ -5,14 +5,42 @@ Ihr solltet die Version 3 oder 4 haben und sehr wichtig die Version namens:
 nicht
 	Eclipse IDE for Java Developers
 
-Das Verzeichnis "entwicklung/workspace" ist das Verzeichnis in dem der Code sich befindet und befinden wird.
+
+"entwicklung/workspace" ist das Verzeichnis in dem der Code sich befindet und befinden wird.
 Ich habe neben dem Projekt (sherlockholmessystems) ein paar Beispliele hochgepusht.
+Um den Arbeitsaufwand zu minimieren sollte ihr auf dem Verzeichnis entwickeln. 
+
 
 Das Verzeichnis "entwicklung/apache-tomcat-7" (der Webserver) solltet ihr raus kopieren und irgendwo
-ablegen (Am Besten bei C:) und die Verbindung mit JRE erstellen.
-
+ablegen (Am Besten bei C:) und die Verbindung zw. JRE und TOMCAT erstellen.
 Im folgenden Tutorial ist alles idiotensicher erklärt worden
 http://www.youtube.com/watch?v=b42CJ0r-1to&feature=relmfu
+
+
+
+
+INSTALL GIT
+-----------
+Schritt 1: GIT
+tutorial
+http://uncod.in/blog/installing-msysgit-on-windows7/
+download
+http://code.google.com/p/msysgit/downloads/list
+
+Schritt 2: TortoiseGit
+tutorial
+http://uncod.in/blog/installing-tortoisegit-on-windows7/
+download
+http://code.google.com/p/tortoisegit/downloads/list
+
+Schritt 3: GitHub
+tutorial
+http://uncod.in/blog/setting-up-a-github-account-on-windows7/
+sign up/in
+https://github.com/signup/free
+
+Schritt 4: How to use GitHub
+http://uncod.in/blog/github-tortoisegit-and-organizational-workflow-tutorial/
 
 
 
