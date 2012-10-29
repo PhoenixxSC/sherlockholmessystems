@@ -38,6 +38,7 @@ tutorial
 http://uncod.in/blog/setting-up-a-github-account-on-windows7/
 sign up/in
 https://github.com/signup/free
+--->>>> Sobald die Anmeldung erfolgt ist, schickt mir euren Benutzername auf GitHub
 
 Schritt 4: How to use GitHub
 http://uncod.in/blog/github-tortoisegit-and-organizational-workflow-tutorial/
@@ -62,7 +63,7 @@ Schritt 2: PULL
 
 
 JSP und Servlet: Tutorials (auf Englisch :D )
---------------------------
+---------------------------------------------
 1.	http://www.youtube.com/watch?v=b42CJ0r-1to&feature=relmfu
 2.	http://www.youtube.com/watch?v=oX2rw5pAdxw&feature=relmfu
 3.	http://www.youtube.com/watch?v=YxuCG0f14hM&feature=relmfu
