@@ -1,0 +1,7 @@
+package MODEL;
+
+public abstract class Database {
+	public final String database = "";
+	
+	
+}
