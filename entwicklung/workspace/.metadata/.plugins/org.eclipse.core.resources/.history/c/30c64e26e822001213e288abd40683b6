@@ -1,0 +1,14 @@
+<%@ page import="MODEL.Config" %>
+
+<div id="<%=Config.main%>">
+	<table>
+		<tr>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr></tr>
+	</table>
+</div>

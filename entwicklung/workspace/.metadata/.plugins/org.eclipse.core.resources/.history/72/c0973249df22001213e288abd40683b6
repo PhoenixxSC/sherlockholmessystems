@@ -1,0 +1,6 @@
+
+<%@ page import="MODEL.Config" %>
+
+
+
+<%@ include file= ${Config.view}  %>

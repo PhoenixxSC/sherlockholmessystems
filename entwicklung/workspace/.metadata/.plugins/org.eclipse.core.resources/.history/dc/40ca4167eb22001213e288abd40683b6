@@ -1,0 +1,4 @@
+<%@ page import="MODEL.Config" %>
+
+<%@ include file="./VIEW_CONTROLLER/signin.jsp" %>
+<%@ include file="./VIEW_CONTROLLER/signup.jsp" %>

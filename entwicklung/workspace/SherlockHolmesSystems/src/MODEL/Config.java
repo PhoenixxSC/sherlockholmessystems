@@ -1,0 +1,35 @@
+package MODEL;
+
+public final class Config {
+	//paths
+	private static String jsp = ".jsp";
+	
+	public static final String 
+	view = "./VIEW",
+	model = "./MODEL",
+	controller = "./CONTROLLER",	
+	viewcontrol = view+"/VIEW_CONTROLLER",
+	
+	login = viewcontrol+"/login"+jsp,
+	cb = viewcontrol+"controllboard"+jsp,
+	signup	= viewcontrol+"/signup"+jsp,
+	signin	= viewcontrol+"/signin"+jsp,
+	fview = viewcontrol+"/filesview"+jsp,
+	header = viewcontrol+"/header"+jsp,
+	mleft = viewcontrol+"/marginleft"+jsp,
+	progress = viewcontrol+"/progress"+jsp
+	;
+	
+	
+	//Tag names
+	public static final String
+	mainId = "controllboard",
+	signupId = "signup",
+	signinId = "signin",
+	headerId = mainId+"_header",
+	mleftId = mainId+"_marginleft",
+	fviewId = mainId+"_filesview",
+	progressId = mainId+"_progress"
+	;
+	
+}

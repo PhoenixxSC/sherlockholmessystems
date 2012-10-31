@@ -1,0 +1,25 @@
+package MODEL;
+
+public final class Config {
+	//paths
+	public static final String 
+	view = "./VIEW",
+	model = "./MODEL",
+	controller = "./CONTROLLER",	
+	viewcontrol = view+"/VIEW_CONTROLLER",
+	
+	doc = viewcontrol+"/doc.jsp",
+	signup	= viewcontrol+"/signup.jsp",
+	signin	= viewcontrol+"/signin.jsp"
+	;
+	
+	
+	//Tag names
+	public static final String
+	mainId = "controllboard",
+	signupId = "signup",
+	signinId = "signin",
+	headerId = main+"_header"
+	;
+	
+}

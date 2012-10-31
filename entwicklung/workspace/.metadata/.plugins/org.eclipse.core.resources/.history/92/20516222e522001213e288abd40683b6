@@ -1,0 +1,3 @@
+<%@ page import="MODEL.Config" %>
+
+<div name="lala"></div>

@@ -1,0 +1,20 @@
+<%@ page import="MODEL.Config" %>
+
+<div id="<%=Config.mainId%>">
+	<table>
+		<tr><td colspan="2">
+			<jsp:include page="<%=Config.header%>"></jsp:include>
+		</td></tr>
+		<tr>
+			<td><div id="">
+				<jsp:include page="<%=Config.mleft%>"></jsp:include>
+			</div></td>
+			<td>
+				<jsp:include page="<%=Config.fview%>"></jsp:include>
+			</td>
+		</tr>
+		<tr><td colspan="2">
+			<jsp:include page="<%=Config.progress%>"></jsp:include>
+		</td></tr>
+	</table>
+</div>

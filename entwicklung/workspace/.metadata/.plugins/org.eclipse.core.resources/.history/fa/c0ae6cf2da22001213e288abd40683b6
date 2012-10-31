@@ -1,0 +1,4 @@
+
+<%@ page import="MODEL.Config" %>
+
+<%@ include file="/VIEW/VIEW_CONTROLLER/doc.jsp" %>

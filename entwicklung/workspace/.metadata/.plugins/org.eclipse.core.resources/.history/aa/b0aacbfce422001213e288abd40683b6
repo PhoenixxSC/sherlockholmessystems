@@ -1,0 +1,14 @@
+package MODEL;
+
+public final class Config {
+	//paths
+	public static final String 
+	view = "/VIEW",
+	model = "/MODEL",
+	controller = "/CONTROLLER",	
+	viewcontrol = view+"/VIEW_CONTROLLER",
+	
+	doc = viewcontrol+"/doc.jsp"
+	;
+	
+}

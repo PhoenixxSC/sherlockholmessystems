@@ -1,0 +1,13 @@
+package MODEL;
+
+public final class Config {
+	//paths
+	public String 
+	view = "VIEW",
+	model = "MODEL",
+	controller = "CONTROLLER",
+	
+	viewcontrol = view+"_CONTROLLER"
+	;
+	
+}

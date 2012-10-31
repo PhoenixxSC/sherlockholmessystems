@@ -12,5 +12,9 @@
 		Password <input type="password" name="password"/><br/>
 		<input type="submit"/>
 	</form>
+	<br/>
+	<script type="text/javascript">
+		alert('lalalala');
+	</script>
 </body>
 </html>

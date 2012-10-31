@@ -1022,3 +1022,21 @@ java.io.FileNotFoundException: http://public.dhe.ibm.com/software/websphere/wasc
 
 !ENTRY org.eclipse.equinox.p2.updatesite 4 0 2012-10-28 21:39:38.823
 !MESSAGE Error reading feature http://public.dhe.ibm.com/software/websphere/wasce/updates/features/com.ibm.wasce.v20.feature_2.1.4.jar.
+!SESSION 2012-10-30 21:33:49.950 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 4 0 2012-10-30 23:58:13.751
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.initJspAndServletNames(JSPTranslation.java:422)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.fixupMangledName(JSPTranslation.java:404)
+	at org.eclipse.jst.jsp.ui.internal.taginfo.JSPJavaJavadocHoverProcessor.getHoverInfo(JSPJavaJavadocHoverProcessor.java:106)
+	at org.eclipse.wst.sse.ui.internal.taginfo.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)

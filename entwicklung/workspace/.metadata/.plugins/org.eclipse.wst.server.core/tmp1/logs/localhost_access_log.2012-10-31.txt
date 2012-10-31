@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:00:37:45 +0100] "GET /shs/VIEW/VIEW_CONTROLLER/progress.jsp HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:00:37:57 +0100] "GET /shs/VIEW/VIEW_CONTROLLER/progress.jsp HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:01:42:25 +0100] "GET /shs/VIEW/controllboard.jsp HTTP/1.1" 500 2864
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:01:43:09 +0100] "GET /shs/VIEW/controllboard.jsp HTTP/1.1" 500 2864
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:01:44:27 +0100] "GET /shs/VIEW/controllboard.jsp HTTP/1.1" 500 2868
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:01:44:29 +0100] "GET /shs/VIEW/controllboard.jsp HTTP/1.1" 500 2868
+0:0:0:0:0:0:0:1 - - [31/Oct/2012:01:44:37 +0100] "GET /shs/VIEW/controllboard.jsp HTTP/1.1" 500 2868

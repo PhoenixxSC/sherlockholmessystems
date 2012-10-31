@@ -1,0 +1,6 @@
+
+<%@ page import="MODEL.Config" %>
+
+<jsp:include page=""/>
+
+<%@ include file= ${Config.view}  %>
